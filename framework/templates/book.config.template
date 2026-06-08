@@ -1,0 +1,22 @@
+# book.config — minimal machine-readable settings for scaffold.sh
+# Sourced as bash KEY=VALUE. Keep values simple (quote if spaces). The rich creative
+# inputs live in STORY-SPEC.md; this file is only what the scaffold script needs.
+
+TITLE="My New Novel"
+AUTHOR="Author Name"
+GENRE="new-adult romance"
+
+# Production
+CHAPTER_COUNT=5          # number of long chapters
+WORD_FLOOR=15000         # hard minimum words per chapter
+TOTAL_TARGET=90000       # whole-book target
+SCENE_MARK="◆"           # scene divider symbol used inside chapters
+
+# Drafting
+COMPRESS_DRAFT=false     # true = draft with compress-fiction codec (~20x fewer output tokens)
+
+# Git
+BRANCH="main"            # working branch to develop + push to
+
+# Optional: short slug used for chapter filenames (lowercase, no spaces)
+SLUG="my-new-novel"
