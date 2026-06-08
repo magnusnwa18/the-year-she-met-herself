@@ -11,7 +11,7 @@
 | Chapter | Title | Floor | Drafted (expanded est.) | % | Status |
 |--------:|-------|------:|------------------------:|--:|--------|
 | 1 | The Good Daughter | 12,000 | ~11,990 | 100% | **Drafted (1st pass)** — expanded reference at `chapters/01-the-good-daughter.md`; codec demo at `chapters-long/ch01-compressed.md` |
-| 2 | Aftershocks | 12,000 | 0 | 0% | Not started |
+| 2 | Aftershocks | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only at `chapters-long/ch02-compressed.md`; first person; ~11.1k real compressed prose → ≈12k expanded |
 | 3 | The London One | 12,000 | 0 | 0% | Not started |
 | 4 | What the House Remembers | 12,000 | 0 | 0% | Not started |
 | 5 | Theo | 12,000 | 0 | 0% | Not started |
@@ -23,7 +23,7 @@
 | 11 | What Her Mother Forgot | 12,000 | 0 | 0% | Not started |
 | 12 | The Choice | 12,000 | 0 | 0% | Not started |
 | 13 | The Year She Met Herself | 12,000 | 0 | 0% | Not started |
-| **Σ** | | **156,000** | **~11,990** | **~8%** | Phases 0–3 complete; Ch1 drafted |
+| **Σ** | | **156,000** | **~24,000** | **~15%** | Ch1–2 drafted (2 of 13) |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
@@ -33,9 +33,14 @@
 ## Stage
 **Drafting** ← current. (Phases 0–3 complete: spec locked, outline locked, bible built, plan live.) Revising / Polishing = later (Phase 5), only once the draft is whole.
 
+## Voice note (author direction, from Ch2 on)
+- **First person**, heavy interior thinking. Visions = first person present, but **the "I" becomes the alternate self** (the pronoun is colonised). **Compressed-only** drafting (no expanded files). Richer/more sophisticated; new recurring characters welcome.
+- **Ch1 owes a first-person revision pass** (Phase 5) to match this lock — flagged.
+
 ## Next action
-Draft **Chapter 2 — "Aftershocks"** (Days 3–19): the morning after the unanswered proposal; Eleanor learns the *rules of the engine* via a second, smaller glimpse; Diana's diagnosis confirmed; the firm's value-engineered project (B2) and Priya (B1) advance. Draft compressed-first → `chapters-long/ch02-compressed.md`; gate on expansion; update tracker; commit + push.
+Draft **Chapter 3 — "The London One"** (Days 24–40): Eleanor goes to the Halsworth Vane preview; meets the man who offered her London 8 years ago; the **Ellis/career life rendered in full** (glittering, lonely); first sustained sign Ellis is *aware* and looking back through waking glass. Compressed-only → `chapters-long/ch03-compressed.md`. Advance B2 (Cora/competition). Floor ≥12k.
 
 ### Pass log
 - **Pass 1:** Phases 0–3 (spec/outline/bible/plan) locked + committed.
-- **Pass 2:** Ch1 "The Good Daughter" drafted to floor (~11,990w). Seeds nearly all motifs; first Ellis contact-attempt planted. Per-chapter gate: PASS (job done; escalation = the unanswered yes; opens in motion, ends on the cut; floor met via B1 Priya scene + deepened B2; bible updated). Committed + pushed.
+- **Pass 2:** Ch1 "The Good Daughter" drafted to floor (~11,990w, expanded readable reference). Per-chapter gate: PASS. Committed + pushed.
+- **Pass 3:** Voice switched to **first person** (spec + bible updated). Ch2 "Aftershocks" drafted **compressed-only** to floor (~11.1k real compressed prose ≈ 12k expanded; 6 scenes). New character **Viv Ashe** introduced; intrigue seeds planted (cottage deeds, the photograph, the rules notebook); takeover mechanism named + escalated (lost-time text, Ellis in waking glass). B1 (Priya/Dev/Manchester) + B2 (Greenbank/Cora + the London competition email) advanced. Per-chapter gate: PASS (job done; escalation = both doors now real in the waking world + Ellis leaking through; opens on the unprecedented non-yes, ends on "Is Eleanor Hale there?"; floor met via woven B1/B3/new scene, not padding; bible updated). Committed + pushed.

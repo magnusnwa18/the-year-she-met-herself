@@ -53,6 +53,12 @@
 ### Cora Vance — colleague/rival
 - 31. Wants the partnership at Crane & Soder nakedly. The real-world Ellis. Gets what Eleanor "lost," at the cost Ellis paid. **Anchor:** already dresses like Ellis; never makes the tea.
 
+### Vivian "Viv" Ashe — Diana's oldest friend  *(new, intro ch2)*
+- 74. Retired architect — one of very few women of her generation in the profession; built a celebrated chapel-conversion in the '80s, then "stopped, on purpose" (her phrase). Diana's friend since art school (they met at 19). Widow; no children, by choice she names without apology.
+- **Function in theme:** the one person who hears Eleanor's visions and does NOT reckon her ill — because she has her *own* uncanny history she only half-explains ("I had a year like that once. You don't get told twice, so listen the first time."). She is a **living, warmer, wiser Ellis-adjacent** — a woman who chose the work and can speak honestly to what it cost and what it was worth; and a mentor/oracle distinct from Diana (Diana praised easiness; Viv has only ever asked Eleanor what she *wants*).
+- **Anchor:** a draughtsman's habit of squinting one eye; always has a propelling pencil; says the unsayable thing kindly and then changes the subject.
+- **Mystery she carries:** did she truly live a "year" like Eleanor's, or is it metaphor? Held ambiguous; pays off late. Also the keeper of some of Diana's truths (knew Patrick; knows about the cottage; possibly knows the ch11 reveal before Eleanor does — *information-state: Viv must not voice the Patrick truth before Diana does in ch11*).
+
 ### Marcus — *(backstory only, off-page)*
 - The man Eleanor was briefly with at 31. The father of the lost pregnancy. Named, not dramatised. No on-page scenes.
 
@@ -85,7 +91,8 @@
 - **Secret: why Patrick really left** (*provisional: Diana told him to go; possibly Patrick's affair or Diana's own choice — lock by ch9*). Known to: Diana, Patrick. Eleanor learns **ch11** (Diana, unguarded). Until then Eleanor believes the child's version (*he left because of/despite her*).
 - **Ellis's takeover acts** (lost-time): each happens off-page; Eleanor (and reader) discover *after*. **LOG (update as drafted):**
   - *(ch1)* **DRAFTED** — first contact attempt: inside the first glimpse, ELLIS's reflection in the black glass looks back, smiles Eleanor's easy smile, *speaks* ("let me in… just open the door, you're so good at opening doors"), and reaches to touch fingers — the vision cuts on contact. The takeover-self is established as aware & hungry from Day 1. (NB Theo named here, by the reflection, BEFORE the reader knows him — deliberate plant for ch5.)
-  - *(ch3)* first sign Ellis is *aware* in a waking glimpse — a look back through glass. [pending draft]
+  - *(ch2)* **DRAFTED** — escalation: (a) lost 40 seconds during an Elle glimpse and *someone sent Adam a text in Eleanor's words* she has no memory of typing ("mnding the shop" / "a tenant trying the locks"); (b) Ellis's reflection leaks into a *waking* surface (the switched-off office monitor) wearing a different expression. Viv names the mechanism explicitly: the cold/certain self is the one that "looks for the way back," learns a few more steps into Eleanor each visit; you defeat it only by *living somewhere* (choosing a room). **NEW takeover rule established.**
+  - *(ch3)* first sign Ellis is *aware* in a sustained waking glimpse — at the London preview. [pending draft]
   - *(ch6)* Ellis lingers/speaks; refuses to dissolve. [pending]
   - *(ch8)* the **London job application** Eleanor doesn't remember sending; the haircut. [pending]
   - *(ch10)* lost hours; nearly on the London train; cold note left for Adam in Eleanor's hand but not her words. [pending]
@@ -109,7 +116,9 @@
 - **The ring** (Adam's, ch1) → returned/refused honestly ch12.
 - **Diana's piano + the flat D** → the music scene ch11; Eleanor keeps/plays it ch13.
 - **The London job application** (ch8, lost-time) → confronted ch10/12.
-- **The derelict house deeds** (Diana's, surfaced ch4 hint → bequeathed ch11) → the chosen life ch12–13.
+- **The derelict house deeds** — *surfaced EARLY in ch2* (Eleanor finds deeds among Diana's papers to a **river cottage** — provisional: a former pilot's/lock-keeper's cottage on the tidal Avon — that her mother quietly kept and never mentioned) → recurs ch4 → formally bequeathed ch11 → the chosen life ch12–13. *Intrigue: why did Diana keep it secret?*
+- **The photograph** (ch2): among Diana's papers, a photo of young Diana (early 20s, before Patrick) laughing with a man who is not Patrick, on the steps of the river cottage. Unexplained. Seeds the question of Diana's own unchosen life / the ch11 reveal. *Information-state: meaning withheld until ch11; Viv recognises it but deflects.*
+- **The "rules" notebook** (ch2): Eleanor, an architect, starts cataloguing the laws of the visions like a site survey — a recurring object/device; its entries head later chapters or recur as her understanding deepens.
 - **Edie's drawing** (mother-self vision, ch7) → grief-release ch12.
 - **Patrick's unset watch** (ch9) → motif of refusing local time / refusing to be present.
 - **The value-engineered building** (the firm's project, ch2) → Eleanor's resignation / her own true design ch12–13.
@@ -120,8 +129,9 @@
 - **B3 Diana's care / Patrick's return** — Freedom's cost; the price of staying — ch1/4/9/10/11.
 - **B4 Theo's own life** — love as a true cost, no guarantee — ch5/8/12/13; *Theo is not a rescue and not always available.*
 
-## VOICE / STYLE RULES *(the lock — from spec §3)*
-- **Real timeline:** close third on Eleanor, **past tense**. **Visions:** **present tense**, narration migrating into the alternate self's close-third (still "she"; diction + name shift). The threat by ch6+: not snapping back.
+## VOICE / STYLE RULES *(the lock — from spec §3)* — **UPDATED ch2: FIRST PERSON**
+- **Real timeline:** **first person, Eleanor ("I"), past tense** — heavy interiority / direct thought. **Visions:** **present tense, first person, but the "I" becomes the alternate self** (Ellis/Leni/Elle/mother-self) — the pronoun is colonised; the reader feels it taken over. The threat by ch6+: the *I* not coming back. ("Who gets to say *I*?")
+- **NB:** Ch1 was drafted in close third (the readable reference). It needs a **first-person revision pass** in Phase 5 to match this lock. Ch2→13 are first person, **compressed-only** (`chapters-long/chNN-compressed.md`), per author direction.
 - Register: upmarket-literary, image-led, interiority-heavy, dry-witted; metaphor from **architecture** + **music**; long accumulating sentences punctuated by short flat declaratives.
 - Scene marker `◆`, every scene POV-tagged. Calibration lines: see spec §3 (Nell / Ellis / Leni / Elle).
 - Per-self diction discipline: Ellis = imperatives, salt/steel/glass; Leni = "we", flour/paint/weather; Elle = transit/birds/water, never "home"; mother-self = halved attention, a child's time.
@@ -131,7 +141,9 @@
 - [ ] The real reason Patrick left (the ch11 reveal) — lock by **ch9** drafting. *NB ch1 planted Diana's unfinished line "**you stayed when I —**" + "I always thought I'd done the right thing, letting your hands learn to stay" — strongly implies Diana made a choice she's never owned; the ch11 reveal must pay this exact seed off.*
 - [x] **Theo's present occupation** — works with his hands / makes real things (boats or small build firm; finalise by ch5). Near-relationship name (Rae?) — by **ch5**. *NB "Theo" was NAMED in ch1's glimpse; first "El" diminutive seeded as the one closed door.*
 - [x] **Priya's husband = "Dev" [LOCKED]**; Priya is a secondary-school teacher; daughter **Aanya** (~6), second child unnamed yet. B1 strain seeded ch1: Dev offered a department head role in **Manchester** — the want-as-betrayal beat.
-- [ ] Whether Priya's marriage ends or survives (B1 resolution) — by **ch10**.
+- [ ] Whether Priya's marriage ends or survives (B1 resolution) — by **ch10**. *NB ch2 locked specifics: Priya teaches Yr 9 English; husband **Dev** (insurance team manager) offered a job in **Manchester**; kids **Aanya** (~6) & **Bo** (~3, doesn't sleep); damp back bedroom; her mother round the corner. B1 framed as "a marriage under load," the A-story's mirror.*
+- [x] **Viv's backstory [LOCKED ch2]:** built the celebrated **Stoke chapel conversion**; walked out of her own practice at 51, "on purpose"; had her *own* uncanny "year" long before Eleanor was born (kept deliberately ambiguous — literal or metaphor). She *knows who the man in the photo is* and *knows the cottage choice* but refuses to tell — urges Eleanor to "ask your mother while there's still someone in there to ask" (dramatic-irony clock vs. Diana's decline). **Information-state: Viv must not voice the Patrick/cottage truth before Diana does (ch11).**
+- [x] **The visions' deepening rules [LOCKED ch2]:** (R1) only true, life-shaping choices trigger them — *can't fake a choice*; (R1b) therefore each glimpse reveals what Eleanor *secretly still wants*; (R2) a glimpse is a *place*, not a guess (full sensory, time passes); (R3) finite, recurring selves; (R4) returns cold, sometimes with lost time that is *not empty* (someone keeps her surface smooth); (R5) she can sometimes *refuse* to enter, at a physical cost (headache/nosebleed). The "rules notebook" is now an established recurring object.
 - [x] **Satie Gymnopédie No.1 [LOCKED]** as the recurring piece. Seeded ch1.
 - [x] Eleanor's firm = **Crane & Soder**; partner **Soder**; rival **Cora Vance**; safe project = **Greenbank** care home (120 beds, Eastville); her student triumph = a community library folded around a plane tree. [LOCKED ch1]
 - [x] Adam = structural engineer; calls her **Nell**; the kingfisher mug; proposes ch1 at the harbour Thai restaurant (end table). [LOCKED ch1]
