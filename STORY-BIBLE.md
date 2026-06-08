@@ -84,7 +84,8 @@
 - **Secret: the 31-yr pregnancy/miscarriage (Marcus).** Known to: Eleanor only (and the reader from **ch7**). Spoken aloud by Eleanor first time **ch11/12**. Adam & Priya cannot reference it before then.
 - **Secret: why Patrick really left** (*provisional: Diana told him to go; possibly Patrick's affair or Diana's own choice — lock by ch9*). Known to: Diana, Patrick. Eleanor learns **ch11** (Diana, unguarded). Until then Eleanor believes the child's version (*he left because of/despite her*).
 - **Ellis's takeover acts** (lost-time): each happens off-page; Eleanor (and reader) discover *after*. **LOG (update as drafted):**
-  - *(ch3)* first sign Ellis is *aware* — a look back through glass. [pending draft]
+  - *(ch1)* **DRAFTED** — first contact attempt: inside the first glimpse, ELLIS's reflection in the black glass looks back, smiles Eleanor's easy smile, *speaks* ("let me in… just open the door, you're so good at opening doors"), and reaches to touch fingers — the vision cuts on contact. The takeover-self is established as aware & hungry from Day 1. (NB Theo named here, by the reflection, BEFORE the reader knows him — deliberate plant for ch5.)
+  - *(ch3)* first sign Ellis is *aware* in a waking glimpse — a look back through glass. [pending draft]
   - *(ch6)* Ellis lingers/speaks; refuses to dissolve. [pending]
   - *(ch8)* the **London job application** Eleanor doesn't remember sending; the haircut. [pending]
   - *(ch10)* lost hours; nearly on the London train; cold note left for Adam in Eleanor's hand but not her words. [pending]
@@ -92,17 +93,17 @@
 - **Okafor's possible diagnosis (ch6):** never confirmed/denied on page; Eleanor declines further tests ch10/12.
 
 ## MOTIFS (seed → payoff) — *(mirror of OUTLINE; tick when placed in draft)*
-- Open doors — seed ch1 [ ] — payoff ch12–13 [ ]
-- Unbuilt/load-bearing house — seed ch1–2 [ ] — payoff ch12–13 [ ]
-- Hands (per-self) — seed ch1 [ ] — payoff ch13 [ ]
-- Piano / music-survives-memory / flat D / Satie Gymnopédie 1 — seed ch1/4 [ ] — payoff ch11/13 [ ]
+- Open doors — seed ch1 [x] (opens every door in the flat; "an open door is a possibility, a closed door is a loss"; the one CLOSED door = the "El"/Theo room) — payoff ch12–13 [ ]
+- Unbuilt/load-bearing house — seed ch1 [x] (her life as a building w/ no load-bearing wall; the Greenbank courtyard value-engineered out; Priya's marriage AS a load-bearing wall) — payoff ch12–13 [ ]
+- Hands (per-self) — seed ch1 [x] (Nell's "never decided anything"; Ellis's cold; Diana's pianist's hands "honest like the flat D") — payoff ch13 [ ]
+- Piano / music-survives-memory / flat D / **Satie Gymnopédie No.1 [LOCKED]** — seed ch1 [x] (the flat D = "honest note"; mother+daughter play it 4-handed; "the hands keep what the head's let go") — payoff ch11/13 [ ]
 - Birds (migration vs nesting) — seed ch4/9 [ ] — payoff ch13 [ ]
-- Reflections / dark glass — seed ch1 [ ] — escalate ch6 [ ] — payoff ch12 [ ]
-- 365-day countdown — seed ch1 [ ] — payoff ch12/13 [ ]
-- Tide / harbour — seed ch2 [ ] — payoff ch13 [ ]
-- "Easy" — seed ch1 [ ] — subvert ch11 [ ] — payoff ch12 [ ]
-- Names / diminutives — seed ch1 [ ] — payoff ch12 [ ]
-- Cold cup of tea — seed ch1 [ ] — payoff ch13 [ ]
+- Reflections / dark glass — seed ch1 [x] (doubled harbour lights; Ellis sees reflection look back & speak) — escalate ch6 [ ] — payoff ch12 [ ]
+- 365-day countdown — seed ch1 [x] ("from tomorrow, exactly 365 days"; "last evening the yes would be easy") — payoff ch12/13 [ ]
+- Tide / harbour — seed ch1 [x] (tide out at the proposal; "the harbour gives back everything it holds, & fills by morning") — payoff ch13 [ ]
+- "Easy" — seed ch1 [x] (Diana: "at least I was given the easy one"; Priya & Adam both use it) — subvert ch11 [ ] — payoff ch12 [ ]
+- Names / diminutives — seed ch1 [x] (Nell/Eleanor/El; the closed "El" door = Theo) — payoff ch12 [ ]
+- Cold cup of tea — seed ch1 [x] (the birthday tea she means to drink & doesn't; Ellis INVERTS it — "I drink them. I decided.") — payoff ch13 [ ]
 
 ## OBJECTS & THREADS (setups awaiting payoff)
 - **The ring** (Adam's, ch1) → returned/refused honestly ch12.
@@ -127,8 +128,10 @@
 
 ## OPEN ITEMS TO LOCK (resolve by the chapter noted)
 - [ ] Exact nature of the derelict house (must be hand-restorable & "small on paper") — by **ch11**.
-- [ ] The real reason Patrick left (the ch11 reveal) — lock by **ch9** drafting.
-- [ ] Theo's present occupation (boats vs. build firm) + near-relationship name (Rae?) — by **ch5**.
-- [ ] Priya's husband's name (avoid clashing initials) + her job — by **ch2**.
+- [ ] The real reason Patrick left (the ch11 reveal) — lock by **ch9** drafting. *NB ch1 planted Diana's unfinished line "**you stayed when I —**" + "I always thought I'd done the right thing, letting your hands learn to stay" — strongly implies Diana made a choice she's never owned; the ch11 reveal must pay this exact seed off.*
+- [x] **Theo's present occupation** — works with his hands / makes real things (boats or small build firm; finalise by ch5). Near-relationship name (Rae?) — by **ch5**. *NB "Theo" was NAMED in ch1's glimpse; first "El" diminutive seeded as the one closed door.*
+- [x] **Priya's husband = "Dev" [LOCKED]**; Priya is a secondary-school teacher; daughter **Aanya** (~6), second child unnamed yet. B1 strain seeded ch1: Dev offered a department head role in **Manchester** — the want-as-betrayal beat.
 - [ ] Whether Priya's marriage ends or survives (B1 resolution) — by **ch10**.
-- [ ] The recurring Satie piece (Gymnopédie No.1 vs. Gnossienne) — by **ch1** (used as seed). → *defaulting to **Gymnopédie No.1***.
+- [x] **Satie Gymnopédie No.1 [LOCKED]** as the recurring piece. Seeded ch1.
+- [x] Eleanor's firm = **Crane & Soder**; partner **Soder**; rival **Cora Vance**; safe project = **Greenbank** care home (120 beds, Eastville); her student triumph = a community library folded around a plane tree. [LOCKED ch1]
+- [x] Adam = structural engineer; calls her **Nell**; the kingfisher mug; proposes ch1 at the harbour Thai restaurant (end table). [LOCKED ch1]

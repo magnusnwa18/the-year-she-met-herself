@@ -10,7 +10,7 @@
 ## Live tracker
 | Chapter | Title | Floor | Drafted (expanded est.) | % | Status |
 |--------:|-------|------:|------------------------:|--:|--------|
-| 1 | The Good Daughter | 12,000 | 0 | 0% | Not started |
+| 1 | The Good Daughter | 12,000 | ~11,990 | 100% | **Drafted (1st pass)** — expanded reference at `chapters/01-the-good-daughter.md`; codec demo at `chapters-long/ch01-compressed.md` |
 | 2 | Aftershocks | 12,000 | 0 | 0% | Not started |
 | 3 | The London One | 12,000 | 0 | 0% | Not started |
 | 4 | What the House Remembers | 12,000 | 0 | 0% | Not started |
@@ -23,7 +23,7 @@
 | 11 | What Her Mother Forgot | 12,000 | 0 | 0% | Not started |
 | 12 | The Choice | 12,000 | 0 | 0% | Not started |
 | 13 | The Year She Met Herself | 12,000 | 0 | 0% | Not started |
-| **Σ** | | **156,000** | **0** | **0%** | Planning complete (Phases 0–3) |
+| **Σ** | | **156,000** | **~11,990** | **~8%** | Phases 0–3 complete; Ch1 drafted |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
@@ -34,4 +34,8 @@
 **Drafting** ← current. (Phases 0–3 complete: spec locked, outline locked, bible built, plan live.) Revising / Polishing = later (Phase 5), only once the draft is whole.
 
 ## Next action
-Draft **Chapter 1 — "The Good Daughter"** in the codec → `chapters-long/ch01-compressed.md`; expand to `chapters/01-the-good-daughter.md` as the quality reference; run the per-chapter gate; update this tracker; commit + push.
+Draft **Chapter 2 — "Aftershocks"** (Days 3–19): the morning after the unanswered proposal; Eleanor learns the *rules of the engine* via a second, smaller glimpse; Diana's diagnosis confirmed; the firm's value-engineered project (B2) and Priya (B1) advance. Draft compressed-first → `chapters-long/ch02-compressed.md`; gate on expansion; update tracker; commit + push.
+
+### Pass log
+- **Pass 1:** Phases 0–3 (spec/outline/bible/plan) locked + committed.
+- **Pass 2:** Ch1 "The Good Daughter" drafted to floor (~11,990w). Seeds nearly all motifs; first Ellis contact-attempt planted. Per-chapter gate: PASS (job done; escalation = the unanswered yes; opens in motion, ends on the cut; floor met via B1 Priya scene + deepened B2; bible updated). Committed + pushed.
