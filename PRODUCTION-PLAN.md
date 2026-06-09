@@ -14,7 +14,7 @@
 | 2 | Aftershocks | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only at `chapters-long/ch02-compressed.md`; first person; ~11.1k real compressed prose → ≈12k expanded |
 | 3 | The London One | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only; ~10.7k real compressed prose → ≈12k expanded; 5 scenes |
 | 4 | What the House Remembers | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only; ~10.5k real compressed prose → ≈12k expanded; 5 scenes |
-| 5 | Theo | 12,000 | 0 | 0% | Not started |
+| 5 | Theo | 12,000 | ~7,000 (exp.) | 60% | **Drafting (redraft after env reset)** — compressed-only; ~6.9k real compressed prose; below floor, top-up pending |
 | 6 | Who Gets to Be Me | 12,000 | 0 | 0% | Not started |
 | 7 | The Child | 12,000 | 0 | 0% | Not started |
 | 8 | Value Engineering | 12,000 | 0 | 0% | Not started |
@@ -23,7 +23,7 @@
 | 11 | What Her Mother Forgot | 12,000 | 0 | 0% | Not started |
 | 12 | The Choice | 12,000 | 0 | 0% | Not started |
 | 13 | The Year She Met Herself | 12,000 | 0 | 0% | Not started |
-| **Σ** | | **156,000** | **~48,000** | **~31%** | Ch1–4 drafted (4 of 13) |
+| **Σ** | | **156,000** | **~55,000** | **~35%** | Ch1–4 done; Ch5 ~60% (env resets cost progress) |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
@@ -37,8 +37,13 @@
 - **First person**, heavy interior thinking. Visions = first person present, but **the "I" becomes the alternate self** (the pronoun is colonised). **Compressed-only** drafting (no expanded files). Richer/more sophisticated; new recurring characters welcome.
 - **Ch1 owes a first-person revision pass** (Phase 5) to match this lock — flagged.
 
+## Environment note (IMPORTANT)
+The remote-exec container has reset to an earlier state TWICE mid-session, discarding any work not yet **pushed**. Ch3/Ch4 and partial Ch5 were recovered from origin. **Policy now: commit AND push after every single block.** Only what is on origin survives.
+
 ## Next action
-Draft **Chapter 5 — "Theo"** (Days 80–110): the love door blows open — Theo returns to Bristol; the **Leni life** (warm, held) blooms; Diana's care; Priya (B1) & Theo's own life (B4). Compressed-only → `chapters-long/ch05-compressed.md`. Floor ≥12k.
+Finish **Chapter 5** to the 12k floor (top-up: more reunion/Leni/cottage/Adam), then **Chapter 6 — "Who Gets to Be Me" (MIDPOINT)**. Push after every commit.
+
+## [superseded] Draft **Chapter 5 — "Theo"** (Days 80–110): the love door blows open — Theo returns to Bristol; the **Leni life** (warm, held) blooms; Diana's care; Priya (B1) & Theo's own life (B4). Compressed-only → `chapters-long/ch05-compressed.md`. Floor ≥12k.
 
 ## [superseded] prior next action
 Draft **Chapter 4 — "What the House Remembers"** (Days 47–72): the cottage at Pill; the origin of the wound (Fork A, age 26); Diana's decline deepens & the **Daniel** mystery presses; the Freedom door & the father, named for the first time. Compressed-only → `chapters-long/ch04-compressed.md`. Advance B3. Floor ≥12k.
