@@ -15,13 +15,13 @@
 | 3 | The London One | 12,000 | ~10,700 | ~89% | **Done (≈floor)** — compressed |
 | 4 | What the House Remembers | 12,000 | ~10,500 | ~88% | **Done (≈floor)** — compressed |
 | 5 | Theo | 8,000 | ~9,200 | ✅ | **Done (≥8k target)** |
-| 6 | Who Gets to Be Me *(MIDPOINT)* | 8,000 | ~3,900 | ~49% | **To ~8k** |
-| 7 | The Child | 8,000 | ~3,200 | ~40% | **To ~8k** |
-| 8 | The Cost of Everything | 8,000 | ~2,600 | ~33% | **To ~8k** |
+| 6 | Who Gets to Be Me *(MIDPOINT)* | 8,000 | ~5,400 | ~68% | **Near target** — show-home self, 18-day wait, Theo's vow, redundancy temptation, first night in cottage |
+| 7 | The Child | 8,000 | ~4,400 | ~55% | **Near target** — the March date, the Edie hour, witness/wound-vs-scar, 'we're always here' |
+| 8 | The Cost of Everything | 8,000 | ~4,100 | ~51% | **Near target** — fortnight truce, partnership truth, Patrick's named goodbye, Viv's two-drawings reading, the slow Adam ending |
 | 9 | What Her Mother Forgot | 8,000 | ~7,400 | ✅ | **Done (≈8k target)** — reveal/window-seat, vigil, music-as-soul, the cold note, ashes at Pill |
 | 10 | The Choice *(CLIMAX)* | 8,000 | ~7,700 | ✅ | **Done (≈8k target)** — climax fully developed |
-| 11 | The Year She Met Herself *(CODA)* | 8,000 | ~2,400 | ~30% | **To ~8k** |
-| **Σ** | | **~88,000** | **~83,000** | **~94% at 8k target** | Ch1–5,9,10 done; Ch6,7,8,11 to ~8k (~13k to go) |
+| 11 | The Year She Met Herself *(CODA)* | 8,000 | ~3,900 | ~49% | **Near target** — first winter, hospice commission, Patrick's Christmas, was-it-real, the large words & window seat |
+| **Σ** | | **~88,000** | **~89,000 (incl. ch1-4 at 10.5-12k)** | **~100% of 8k-target total** | ALL 11 CHAPTERS substantial; ch6-8,11 a final deepening pass from 8k each |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
