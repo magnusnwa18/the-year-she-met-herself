@@ -18,7 +18,7 @@
 | 6 | Who Gets to Be Me *(MIDPOINT)* | 12,000 | ~3,700 | ~31% | **Drafted (all beats)** — needs expansion to floor |
 | 7 | The Child | 12,000 | ~2,900 | ~24% | **Drafted (all beats)** — needs expansion to floor |
 | 8 | The Cost of Everything | 12,000 | ~2,400 | ~20% | **Drafted (all beats)** — needs expansion to floor |
-
+| 9 | What Her Mother Forgot | 12,000 | ~3,700 | ~31% | **Expanding** — reveal/vigil/grief/permission/'go' deepened; ~8k to floor |
 | 10 | The Choice *(CLIMAX)* | 12,000 | ~7,700 | ~64% | **Expanding** — + three-doors named, Ellis re-integrated (her exiled courage), other selves released, all 4 griefs, Priya/Julian bookend, motifs resolved; ~4k to floor |
 | 11 | The Year She Met Herself *(CODA)* | 12,000 | ~2,200 | ~18% | **Drafted (all beats)** — needs expansion to floor |
 | **Σ** | | **132,000** | **~80,000** | **~61%** | FULL ARC DRAFTED; ch10 climax now ~7.7k (priority); ch9 ~3.7k; ch6–8,11 + ch5 top-up still to floor |
