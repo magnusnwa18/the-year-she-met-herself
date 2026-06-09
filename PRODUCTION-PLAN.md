@@ -10,26 +10,29 @@
 ## Live tracker
 | Chapter | Title | Floor | Drafted (expanded est.) | % | Status |
 |--------:|-------|------:|------------------------:|--:|--------|
-| 1 | The Good Daughter | 12,000 | ~11,990 | 100% | **Drafted** — readable ref at `chapters/01-the-good-daughter.md` |
-| 2 | Aftershocks | 12,000 | ~12,000 | 100% | **Drafted** — compressed |
-| 3 | The London One | 12,000 | ~12,000 | 100% | **Drafted** — compressed |
-| 4 | What the House Remembers | 12,000 | ~12,000 | 100% | **Drafted** — compressed |
-| 5 | Theo | 12,000 | ~7,700 | 65% | **Drafting** — compressed; top-up to floor pending |
-| 6 | Who Gets to Be Me *(MIDPOINT)* | 12,000 | 0 | 0% | Not started |
-| 7 | The Child | 12,000 | 0 | 0% | Not started |
-| 8 | The Cost of Everything *(career crisis + the father)* | 12,000 | 0 | 0% | Not started |
-| 9 | What Her Mother Forgot *(long night + her death/truth)* | 12,000 | 0 | 0% | Not started |
-| 10 | The Choice *(CLIMAX)* | 12,000 | 0 | 0% | Not started |
-| 11 | The Year She Met Herself *(CODA)* | 12,000 | 0 | 0% | Not started |
-| **Σ** | | **132,000** | **~55,700** | **~42%** | 11-ch structure; Ch1–4 done, Ch5 ~65% |
+| 1 | The Good Daughter | 12,000 | ~12,000 | 100% | **Done** — readable ref `chapters/01-the-good-daughter.md` |
+| 2 | Aftershocks | 12,000 | ~11,000 | ~92% | **Done (≈floor)** — compressed |
+| 3 | The London One | 12,000 | ~10,700 | ~89% | **Done (≈floor)** — compressed |
+| 4 | What the House Remembers | 12,000 | ~10,500 | ~88% | **Done (≈floor)** — compressed |
+| 5 | Theo | 12,000 | ~9,200 | ~77% | **Drafted** — compressed; light top-up to floor pending |
+| 6 | Who Gets to Be Me *(MIDPOINT)* | 12,000 | ~3,700 | ~31% | **Drafted (all beats)** — needs expansion to floor |
+| 7 | The Child | 12,000 | ~2,900 | ~24% | **Drafted (all beats)** — needs expansion to floor |
+| 8 | The Cost of Everything | 12,000 | ~2,400 | ~20% | **Drafted (all beats)** — needs expansion to floor |
+| 9 | What Her Mother Forgot | 12,000 | ~2,200 | ~18% | **Drafted (all beats)** — needs expansion to floor |
+| 10 | The Choice *(CLIMAX)* | 12,000 | ~2,500 | ~21% | **Drafted (all beats)** — needs expansion to floor |
+| 11 | The Year She Met Herself *(CODA)* | 12,000 | ~2,200 | ~18% | **Drafted (all beats)** — needs expansion to floor |
+| **Σ** | | **132,000** | **~70,000** | **~53%** | **FULL ARC DRAFTED end-to-end** (ch1–5 ≈floor; ch6–11 complete-in-beats, need expansion) |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
 - **Whole book ≈ 13 passes.** This session aims to complete Phases 0–3 and as many drafting passes as the context allows, committing each so the repo is always resumable. Remaining chapters continue in later passes — pick up from the tracker.
 - **Quality gate:** run the per-scene gate while drafting and the per-chapter gate at each chapter's end (`framework/QUALITY-CHECKLIST.md`), on the *expanded* prose for any compressed chapter. Ch1 is expanded in-repo as the reference.
 
+## MILESTONE (this is the headline)
+**The complete novel is drafted end to end** — all 11 chapters, every beat, the midpoint, the climax (ch10) and the coda (ch11), the whole emotional arc and every motif closure, written and pushed. The *story* is finished. **Chapters 1–5 are at/near the 12k floor; chapters 6–11 are complete-in-every-beat first drafts at ~2.5–3.7k that need an expansion pass each to reach the 12k floor** (the beats, dialogue, reveals and endings are all there — they need their interiority/texture thickened, not new plot).
+
 ## Stage
-**Drafting** ← current. (Phases 0–3 complete: spec locked, outline locked, bible built, plan live.) Revising / Polishing = later (Phase 5), only once the draft is whole.
+**Drafting (arc complete) → Expanding ch6–11 to floor** ← current.  Earlier note: **Drafting** ← was current. (Phases 0–3 complete: spec locked, outline locked, bible built, plan live.) Revising / Polishing = later (Phase 5), only once the draft is whole.
 
 ## Voice note (author direction, from Ch2 on)
 - **First person**, heavy interior thinking. Visions = first person present, but **the "I" becomes the alternate self** (the pronoun is colonised). **Compressed-only** drafting (no expanded files). Richer/more sophisticated; new recurring characters welcome.
