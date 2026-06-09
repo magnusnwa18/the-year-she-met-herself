@@ -1,7 +1,7 @@
 # Production Plan & Tracker — The Year She Met Herself
 ### project-manager · honest arithmetic, updated every pass.
 
-**Targets:** 13 chapters · word floor **12,000**/chapter · total target **~170,000** (band 150k–200k).
+**Targets:** **11 chapters** (restructured from 13 — merged old 8+9 and 10+11) · word floor **12,000**/chapter · total target **~132,000**.
 **Branch:** `claude/relaxed-mayer-TIm1Z` · **Scene marker:** `◆` · **Policy:** every chapter ≥ floor; grow via the four B-plots, never padding.
 **Drafting mode:** **compressed** (`compress-fiction` codec, ~20× fewer output tokens) → `chapters-long/chNN-compressed.md`. Expanded outside this env via `compress-fiction/expand-prompt.md`. One sample chapter (ch1) expanded in-repo (`chapters/`) as the quality gate.
 
@@ -10,20 +10,18 @@
 ## Live tracker
 | Chapter | Title | Floor | Drafted (expanded est.) | % | Status |
 |--------:|-------|------:|------------------------:|--:|--------|
-| 1 | The Good Daughter | 12,000 | ~11,990 | 100% | **Drafted (1st pass)** — expanded reference at `chapters/01-the-good-daughter.md`; codec demo at `chapters-long/ch01-compressed.md` |
-| 2 | Aftershocks | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only at `chapters-long/ch02-compressed.md`; first person; ~11.1k real compressed prose → ≈12k expanded |
-| 3 | The London One | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only; ~10.7k real compressed prose → ≈12k expanded; 5 scenes |
-| 4 | What the House Remembers | 12,000 | ~12,000 (exp.) | 100% | **Drafted (1st pass)** — compressed-only; ~10.5k real compressed prose → ≈12k expanded; 5 scenes |
-| 5 | Theo | 12,000 | ~7,000 (exp.) | 60% | **Drafting (redraft after env reset)** — compressed-only; ~6.9k real compressed prose; below floor, top-up pending |
-| 6 | Who Gets to Be Me | 12,000 | 0 | 0% | Not started |
+| 1 | The Good Daughter | 12,000 | ~11,990 | 100% | **Drafted** — readable ref at `chapters/01-the-good-daughter.md` |
+| 2 | Aftershocks | 12,000 | ~12,000 | 100% | **Drafted** — compressed |
+| 3 | The London One | 12,000 | ~12,000 | 100% | **Drafted** — compressed |
+| 4 | What the House Remembers | 12,000 | ~12,000 | 100% | **Drafted** — compressed |
+| 5 | Theo | 12,000 | ~7,700 | 65% | **Drafting** — compressed; top-up to floor pending |
+| 6 | Who Gets to Be Me *(MIDPOINT)* | 12,000 | 0 | 0% | Not started |
 | 7 | The Child | 12,000 | 0 | 0% | Not started |
-| 8 | Value Engineering | 12,000 | 0 | 0% | Not started |
-| 9 | The Father | 12,000 | 0 | 0% | Not started |
-| 10 | The Long Night | 12,000 | 0 | 0% | Not started |
-| 11 | What Her Mother Forgot | 12,000 | 0 | 0% | Not started |
-| 12 | The Choice | 12,000 | 0 | 0% | Not started |
-| 13 | The Year She Met Herself | 12,000 | 0 | 0% | Not started |
-| **Σ** | | **156,000** | **~55,000** | **~35%** | Ch1–4 done; Ch5 ~60% (env resets cost progress) |
+| 8 | The Cost of Everything *(career crisis + the father)* | 12,000 | 0 | 0% | Not started |
+| 9 | What Her Mother Forgot *(long night + her death/truth)* | 12,000 | 0 | 0% | Not started |
+| 10 | The Choice *(CLIMAX)* | 12,000 | 0 | 0% | Not started |
+| 11 | The Year She Met Herself *(CODA)* | 12,000 | 0 | 0% | Not started |
+| **Σ** | | **132,000** | **~55,700** | **~42%** | 11-ch structure; Ch1–4 done, Ch5 ~65% |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
