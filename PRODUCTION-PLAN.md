@@ -1,7 +1,7 @@
 # Production Plan & Tracker — The Year She Met Herself
 ### project-manager · honest arithmetic, updated every pass.
 
-**Targets:** **11 chapters** (restructured from 13 — merged old 8+9 and 10+11) · word floor **12,000**/chapter · total target **~132,000**.
+**Targets:** **11 chapters** · **word target ~8,000/chapter (floor relaxed from 12k per author, $(date) — tighter, genre-right; ~95–100k total).** Ch1–5 & Ch10 = at/above target (done); finish Ch6,7,8,9,11 to ~8k.
 **Branch:** `claude/relaxed-mayer-TIm1Z` · **Scene marker:** `◆` · **Policy:** every chapter ≥ floor; grow via the four B-plots, never padding.
 **Drafting mode:** **compressed** (`compress-fiction` codec, ~20× fewer output tokens) → `chapters-long/chNN-compressed.md`. Expanded outside this env via `compress-fiction/expand-prompt.md`. One sample chapter (ch1) expanded in-repo (`chapters/`) as the quality gate.
 
@@ -14,14 +14,14 @@
 | 2 | Aftershocks | 12,000 | ~11,000 | ~92% | **Done (≈floor)** — compressed |
 | 3 | The London One | 12,000 | ~10,700 | ~89% | **Done (≈floor)** — compressed |
 | 4 | What the House Remembers | 12,000 | ~10,500 | ~88% | **Done (≈floor)** — compressed |
-| 5 | Theo | 12,000 | ~9,200 | ~77% | **Drafted** — compressed; light top-up to floor pending |
-| 6 | Who Gets to Be Me *(MIDPOINT)* | 12,000 | ~3,700 | ~31% | **Drafted (all beats)** — needs expansion to floor |
-| 7 | The Child | 12,000 | ~2,900 | ~24% | **Drafted (all beats)** — needs expansion to floor |
-| 8 | The Cost of Everything | 12,000 | ~2,400 | ~20% | **Drafted (all beats)** — needs expansion to floor |
-| 9 | What Her Mother Forgot | 12,000 | ~3,700 | ~31% | **Expanding** — reveal/vigil/grief/permission/'go' deepened; ~8k to floor |
-| 10 | The Choice *(CLIMAX)* | 12,000 | ~7,700 | ~64% | **Expanding** — + three-doors named, Ellis re-integrated (her exiled courage), other selves released, all 4 griefs, Priya/Julian bookend, motifs resolved; ~4k to floor |
-| 11 | The Year She Met Herself *(CODA)* | 12,000 | ~2,200 | ~18% | **Drafted (all beats)** — needs expansion to floor |
-| **Σ** | | **132,000** | **~80,000** | **~61%** | FULL ARC DRAFTED; ch10 climax now ~7.7k (priority); ch9 ~3.7k; ch6–8,11 + ch5 top-up still to floor |
+| 5 | Theo | 8,000 | ~9,200 | ✅ | **Done (≥8k target)** |
+| 6 | Who Gets to Be Me *(MIDPOINT)* | 8,000 | ~3,900 | ~49% | **To ~8k** |
+| 7 | The Child | 8,000 | ~3,200 | ~40% | **To ~8k** |
+| 8 | The Cost of Everything | 8,000 | ~2,600 | ~33% | **To ~8k** |
+| 9 | What Her Mother Forgot | 8,000 | ~4,200 | ~53% | **To ~8k** (in progress) |
+| 10 | The Choice *(CLIMAX)* | 8,000 | ~7,700 | ✅ | **Done (≈8k target)** — climax fully developed |
+| 11 | The Year She Met Herself *(CODA)* | 8,000 | ~2,400 | ~30% | **To ~8k** |
+| **Σ** | | **~88,000** | **~80,000** | **~91% at 8k target** | Ch1–5,10 done; Ch6–9,11 to ~8k (~20k to go) |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
