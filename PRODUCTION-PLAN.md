@@ -18,10 +18,10 @@
 | 6 | Who Gets to Be Me *(MIDPOINT)* | 12,000 | ~3,700 | ~31% | **Drafted (all beats)** — needs expansion to floor |
 | 7 | The Child | 12,000 | ~2,900 | ~24% | **Drafted (all beats)** — needs expansion to floor |
 | 8 | The Cost of Everything | 12,000 | ~2,400 | ~20% | **Drafted (all beats)** — needs expansion to floor |
-| 9 | What Her Mother Forgot | 12,000 | ~2,200 | ~18% | **Drafted (all beats)** — needs expansion to floor |
-| 10 | The Choice *(CLIMAX)* | 12,000 | ~2,500 | ~21% | **Drafted (all beats)** — needs expansion to floor |
+| 9 | What Her Mother Forgot | 12,000 | ~3,700 | ~31% | **Expanding** — reveal/vigil/grief/permission deepened; more to floor |
+| 10 | The Choice *(CLIMAX)* | 12,000 | ~5,000 | ~42% | **Expanding** — convergence/temptation/drawing-thesis/Adam/child/Theo/visions-stop deepened; more to floor |
 | 11 | The Year She Met Herself *(CODA)* | 12,000 | ~2,200 | ~18% | **Drafted (all beats)** — needs expansion to floor |
-| **Σ** | | **132,000** | **~70,000** | **~53%** | **FULL ARC DRAFTED end-to-end** (ch1–5 ≈floor; ch6–11 complete-in-beats, need expansion) |
+| **Σ** | | **132,000** | **~75,000** | **~57%** | FULL ARC DRAFTED; payoff ch9/ch10 expansion under way (priority); ch6–8,11 still need expansion |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
