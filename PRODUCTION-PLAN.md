@@ -18,10 +18,10 @@
 | 6 | Who Gets to Be Me *(MIDPOINT)* | 8,000 | ~3,900 | ~49% | **To ~8k** |
 | 7 | The Child | 8,000 | ~3,200 | ~40% | **To ~8k** |
 | 8 | The Cost of Everything | 8,000 | ~2,600 | ~33% | **To ~8k** |
-| 9 | What Her Mother Forgot | 8,000 | ~4,200 | ~53% | **To ~8k** (in progress) |
+| 9 | What Her Mother Forgot | 8,000 | ~7,400 | ✅ | **Done (≈8k target)** — reveal/window-seat, vigil, music-as-soul, the cold note, ashes at Pill |
 | 10 | The Choice *(CLIMAX)* | 8,000 | ~7,700 | ✅ | **Done (≈8k target)** — climax fully developed |
 | 11 | The Year She Met Herself *(CODA)* | 8,000 | ~2,400 | ~30% | **To ~8k** |
-| **Σ** | | **~88,000** | **~80,000** | **~91% at 8k target** | Ch1–5,10 done; Ch6–9,11 to ~8k (~20k to go) |
+| **Σ** | | **~88,000** | **~83,000** | **~94% at 8k target** | Ch1–5,9,10 done; Ch6,7,8,11 to ~8k (~13k to go) |
 
 ## Pace & projection
 - **Realistic cadence:** one chapter per drafting pass, in the compression codec; commit + push after each (Law 7). The codec is what makes a 150k-word book feasible inside a token-bounded session — Claude composes full literary quality but spells it compressed (~20× output saving); a cheap decoder expands it later.
